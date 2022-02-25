@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/KitchenMenu/static/css/main.17655c3c.css",
+    "main.js": "/KitchenMenu/static/js/main.6c0f439d.js",
+    "index.html": "/KitchenMenu/index.html",
+    "main.17655c3c.css.map": "/KitchenMenu/static/css/main.17655c3c.css.map",
+    "main.6c0f439d.js.map": "/KitchenMenu/static/js/main.6c0f439d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17655c3c.css",
+    "static/js/main.6c0f439d.js"
+  ]
+}
